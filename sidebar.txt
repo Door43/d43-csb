@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[csb:home|Door43 (csb)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-csb|d43-csb repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-csb/archive/master.zip|d43-csb.zip]]
+
+**Recent Changes**
+{{changes>ns = csb}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/csb|Ethnologue data]]
+
